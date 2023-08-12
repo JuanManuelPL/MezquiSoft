@@ -1,0 +1,15 @@
+.container{
+    background-color: #ECEDF1;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.item{
+    background-color: #3D3B8E;
+    color: white;
+    padding: 15px;
+    width: 150px;
+    margin: 10px;
+    border-radius: 10px;
+}
